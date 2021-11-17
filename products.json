@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "title": "i9 10900k",
+        "desc": "intel CPU",
+        "price": 400,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71J2jBmoOaL._AC_SX466_.jpg"
+    },
+    {
+        "id": 1,
+        "title": "razer hyperflux",
+        "desc": "mouse mousepad combo",
+        "price": 330,
+        "img": "https://assets2.razerzone.com/images/pnx.assets/c9a9621af3697614d6f17bcaf4921f46/hyperflux-usp3-mobile.jpg"
+    },
+    {
+        "id": 1,
+        "title": "MSI Monitor",
+        "desc": "gaming monitor",
+        "price": 1630,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51l6pMgAH2L._AC_SL1024_.jpg"
+    }
+]
