@@ -2,7 +2,7 @@
 import React ,{useState}from 'react';
 
 import {connect} from "react-redux"
-import { removeFromCart, adjustQty } from '../redux/actions/actions';
+import { removeFromCart, adjustQty } from '../actions/actions';
 const CartItem = ({itemData, removeFromCart, adjustQty}) => 
 {
     const [input, setInput] = useState(itemData.qty)

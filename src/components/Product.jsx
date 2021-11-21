@@ -3,7 +3,7 @@ import React from 'react';
 
 import {connect} from 'react-redux'
 import { Link } from 'react-router-dom';
-import {addToCart, loadCurrentItem} from '../redux/actions/actions'
+import {addToCart, loadCurrentItem} from '../actions/actions'
 const Product = ({prodData, addToCart, loadCurrentItem}) => 
 (
         <div className='Product'>
